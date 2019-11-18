@@ -17,6 +17,3 @@ cd to the folder and type the following in the terminal
 $ yarn install    
 $ yarn build   
 $ yarn start
-
-to test the application:
-cd to the folder and type the following in the terminal
